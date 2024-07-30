@@ -1,0 +1,5 @@
+1,Table Tennis,Saathi,$8,30		
+2,Microphone,Sony,$189,40
+3,Disco Set,Sonoff,$322,50		
+4,Gaming PC,ASUS,$489,40		
+5,Badminton,Yonex,$344,35	
